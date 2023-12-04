@@ -1,0 +1,8 @@
+simpletransformers
+transformers
+tokenizers
+pandas
+tqdm
+torch
+tensorboardX
+matplotlib
